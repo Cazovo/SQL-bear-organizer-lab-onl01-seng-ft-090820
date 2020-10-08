@@ -5,4 +5,5 @@ age INTEGER,
 gender TEXT,
 color TEXT,
 temperment TEXT,
-alive INTEGER);
+alive INTEGER
+);
